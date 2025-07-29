@@ -7,6 +7,7 @@ export default function Home() {
       <nav>
         <a href="./newpage/">Contact</a>
       </nav>
+      <p>This is our final project!</p>
     </main>
   );
 }
